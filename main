@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indra nivas Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-section layout">
+            <div class="nav-bar flex space-between align-center">
+                <div class="logo upperclass f-w-700 letter-spacing2 my-t-20"><span>Indra nivas</span> Reddy</div>
+                <div class="nav-link">
+                    <ul class="flex f-w-800 my-t-20 f-size">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Contact Us</a></li>
+
+                    </ul>
+                </div>
+                <button class="btn my-t-20">Hire Me</button>
+            </div>
+            <div class="content flex justify-center align-center">
+                <div>
+                    <h4 class="upperclass letter-spacing2">I'm <span>Indra nivas reddy</span></h4>
+                    <h2 class="my-t-10 letter-spacing2">Data Science Student</h2>
+                    <p class="my-t-10">I am excited to do Internship at Bharat Intern as Web Developer.</p>
+                    <button class="btn btn2 my-t-20">Download CV</button>
+                </div>         
+            </div>
+        </div>
+    </header>
+    <!--about section-->
+    <section class="about-me-sec">
+        <div class="about-sec layout">
+            <h4 class="upperclass text-center f-size">About Me</h4>
+            <hr class="w55 my-t-10">
+            <div class="about-content flex justify-center align-center">
+                <div class="justify-center my-t-40">
+                    <h2 class="upperclass letter-spacing2">Data science Student</h2>
+                    <p class="my-t-10">I am Indra nivas reddy, data science Student at  b v raju institute of technology Engineering 
+                        College. I am happy to do this Internship at Bharat Intern as Web Developer. 
+                    </p>
+                    <ul class="my-t-10">
+                        <li><span class="f-w-600 ">C/Python/Java</span></li>
+                    </ul>
+                    <div class="my-t-10 text-center">
+                        <img src="C:\Users\G.INDRANIVAS REDDY\Downloads\Indranivas.jpg" alt="not load" width="200" height="200">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--contact us section-->
+    <section class="my-contact-sec">
+        <div class="my-cont layout">
+            <h4 class="upperclass pd-t-30 text-center f-size">Contact Us</h4>
+            <hr class="w55 my-t-10">
+            <div class="Contact-content flex justify-center align-center">
+                <div class="left flex2">
+                    <h2 class="upperclass letter-spacing2"><span>Contact Us</span></h2>
+                </div>
+                <div class="right flex3">
+                    <h3 class="my-t-10">Indra Nivas reddy</h3>
+                    <h3 class="my-t-10">+91 9XXXXXXXX</h3>
+                    <h3 class="my-t-10">indranivas2003@gamil.com</h3>
+                </div>
+            </div>
+            <hr class="w55 my-t-10">
+
+        </div>
+    </section>
+</body>
+</html>
